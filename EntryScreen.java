@@ -1,4 +1,5 @@
 package trids.trids_alpha_v1;
+//hi I can edit it
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
